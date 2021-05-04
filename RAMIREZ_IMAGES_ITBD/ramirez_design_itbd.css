@@ -3,6 +3,7 @@
     	background-size: cover;
     	background-repeat: no-repeat;
     	background-attachment:fixed;
+	 font-family: 'Encode Sans', sans-serif;
     }
     input[type=submit],input[type=reset]{
     	width: 100%;
@@ -45,6 +46,7 @@
     	text-align: center;
     	box-shadow: 2px 2px 2px #E64542;
     	border-radius: 20px;
+	 font-family:'Source Serif Pro', serif;
     }
     h1{
     	font-size: 40px;
@@ -55,6 +57,7 @@
 		padding: 20px 40px;
   		margin: 20px 296px;
   		box-shadow: 10px 5px 0px 0px  #E64542, 11px 7px 0px 2px #000000;
+	    font-family:'Source Serif Pro', serif;
     }
     input[type=text],textarea,select,input[type=number],input[type=email]{
     	padding: 12px 20px;
